@@ -1,0 +1,37 @@
+/* *{ 
+    background-image: linear-gradient(to right, red , blue);
+    border: white;
+} */
+.whole{
+    background-image: linear-gradient(to right, red , blue);
+    border: white;
+    border-radius: 100px;
+}
+.dig h1{
+    font-size: 4em;
+    background-image: linear-gradient(to bottom,grey , black);
+    color: white;
+    border-radius: 100px;
+}
+.dig{
+    /* background-image: linear-gradient(to right, red , blue); */
+    position: relative;
+    display: flex;
+    justify-content: center;
+
+}
+.button{
+    position: relative;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    font-style: oblique;
+    font-size: 1.5em;
+    border-radius: 100px;
+    margin: 5px;
+    padding: 1px;
+    cursor: pointer;
+    background-image: linear-gradient(to right,yellow , blue);
+
+}
